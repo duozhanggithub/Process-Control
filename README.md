@@ -38,5 +38,7 @@ Tip 2: Matlab script for subspace identification of DC motor using these experie
 Exercise 6
 
 6_1 Kalman Filter
+
 6_2 Moving Horizon Estimation (MHE)
+
 6_3 Model-predictive Control (MPC):
